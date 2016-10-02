@@ -3,7 +3,7 @@ Seeing how writing works
 
 The word `class` is a C# keyword.
 This is a snippet of C# code.
-```
+```csharp
 using static System.Console;
 
 namespace Freeman
