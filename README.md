@@ -8,7 +8,7 @@ using static System.Console;
 
 namespace Freeman
 {
-    static class Program
+    static partial class Program
     {
         static void Main( )
         {
