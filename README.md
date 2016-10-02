@@ -17,3 +17,6 @@ namespace Freeman
     }
 }
 ```
+This is discussion, blah, blah, blah.
+
+this is a new paragraph, maybe talking about `class Program` or the `Main( )` method or a keyword such as `using`.
