@@ -4,8 +4,6 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-Seeing how writing works
-
 The word `class` is a C# keyword.
 This is a snippet of C# code.
 ```csharp
