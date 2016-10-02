@@ -1,4 +1,7 @@
-# test-writing
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
 Seeing how writing works
 
 The word `class` is a C# keyword.
